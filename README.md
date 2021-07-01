@@ -1,4 +1,4 @@
-I'm ajyablo
+I'm ajyablo.
 Currently learning:
   Python
 Already familiar with:
